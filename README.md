@@ -74,13 +74,6 @@ Steps to test the code locally:
     6. Refactor the code if the test cases are failing and re-run to test again.​
     7. Finally, push the solution to git for automated testing on `hobbes`.
 
-### Test the solution on Hobbes
-Test the solution on hobbes after pushing the code to git.
-
-    1. Open the submission page at `https://codereview.stackroute.niit.com/#/submission`.
-    2. Submit the solution.
-    3. For the failed test cases, refactor the code locally and submit it for re-evaluation.
-
  ​
 
 
